@@ -1,4 +1,4 @@
-# Modern Application Developer - Tea Project
+# Modern Application
 
 Duration: *May 22 – July 27*
 
